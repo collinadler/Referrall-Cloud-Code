@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Referrall": {
+      "applicationId": "viIK3sNC5jJkcgKAmzaqwgVsamGLxGcsPRILj41K"
+    },
+    "_default": {
+      "link": "Referrall"
+    }
+  }
+}
